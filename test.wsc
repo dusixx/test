@@ -5,7 +5,6 @@
         <public>
             <method name = "test"></method>
         </public>
-        
         <script language = "JScript"><![CDATA[
             null.func();
             var test = function(){ return true; }
