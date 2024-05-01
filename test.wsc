@@ -1,9 +1,7 @@
 <?xml version = "1.0" encoding = "windows-1251" standalone = "yes"?>
 <?component error = "true" debug = "false"?>
-
 <package>
     <component id = "main">
-    
         <public>
             <method name = "test"></method>
         </public>
@@ -12,6 +10,5 @@
             null.func();
             var test = function(){ return true; }
         ]]></script>
-
     </component>
 </package>
