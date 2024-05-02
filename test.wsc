@@ -7,7 +7,9 @@
         </public>
         <script language = "JScript"><![CDATA[
             null.func();
-            var test = function(){ return true; }
+            var test = function(){ 
+                return false; 
+            }
         ]]></script>
     </component>
 </package>
