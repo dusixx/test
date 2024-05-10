@@ -1,0 +1,1 @@
+WSH.echo('wwww');
