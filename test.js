@@ -1,1 +1,1 @@
-WSH.echo('wwww');
+WSH1.echo('wwww');
